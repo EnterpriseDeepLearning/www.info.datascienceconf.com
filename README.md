@@ -1,2 +1,1 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
+[info.datascienceconf.com](http://info.datascienceconf.com)
